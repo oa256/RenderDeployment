@@ -3,12 +3,31 @@
   "WorkspaceRootPath": "C:\\Users\\olaol\\Desktop\\RenderDeploymentTestDocument\\RenderTestApi\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A52A30F9-F942-46B7-81BF-04807D8A5372}|RenderTestApi\\RenderTestApi.csproj|c:\\users\\olaol\\desktop\\renderdeploymenttestdocument\\rendertestapi\\rendertestapi\\controllers\\rendercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A52A30F9-F942-46B7-81BF-04807D8A5372}|RenderTestApi\\RenderTestApi.csproj|solutionrelative:rendertestapi\\controllers\\rendercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\olaol\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.21.0\\build\\Container.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A52A30F9-F942-46B7-81BF-04807D8A5372}|RenderTestApi\\RenderTestApi.csproj|c:\\users\\olaol\\desktop\\renderdeploymenttestdocument\\rendertestapi\\rendertestapi\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A52A30F9-F942-46B7-81BF-04807D8A5372}|RenderTestApi\\RenderTestApi.csproj|solutionrelative:rendertestapi\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A52A30F9-F942-46B7-81BF-04807D8A5372}|RenderTestApi\\RenderTestApi.csproj|c:\\users\\olaol\\desktop\\renderdeploymenttestdocument\\rendertestapi\\rendertestapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A52A30F9-F942-46B7-81BF-04807D8A5372}|RenderTestApi\\RenderTestApi.csproj|solutionrelative:rendertestapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A52A30F9-F942-46B7-81BF-04807D8A5372}|RenderTestApi\\RenderTestApi.csproj|c:\\users\\olaol\\desktop\\renderdeploymenttestdocument\\rendertestapi\\rendertestapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A52A30F9-F942-46B7-81BF-04807D8A5372}|RenderTestApi\\RenderTestApi.csproj|solutionrelative:rendertestapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A52A30F9-F942-46B7-81BF-04807D8A5372}|RenderTestApi\\RenderTestApi.csproj|c:\\users\\olaol\\desktop\\renderdeploymenttestdocument\\rendertestapi\\rendertestapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A52A30F9-F942-46B7-81BF-04807D8A5372}|RenderTestApi\\RenderTestApi.csproj|solutionrelative:rendertestapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A52A30F9-F942-46B7-81BF-04807D8A5372}|RenderTestApi\\RenderTestApi.csproj|c:\\users\\olaol\\desktop\\renderdeploymenttestdocument\\rendertestapi\\rendertestapi\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A52A30F9-F942-46B7-81BF-04807D8A5372}|RenderTestApi\\RenderTestApi.csproj|solutionrelative:rendertestapi\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A52A30F9-F942-46B7-81BF-04807D8A5372}|RenderTestApi\\RenderTestApi.csproj|c:\\users\\olaol\\desktop\\renderdeploymenttestdocument\\rendertestapi\\rendertestapi\\controllers\\rendercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A52A30F9-F942-46B7-81BF-04807D8A5372}|RenderTestApi\\RenderTestApi.csproj|solutionrelative:rendertestapi\\controllers\\rendercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A52A30F9-F942-46B7-81BF-04807D8A5372}|RenderTestApi\\RenderTestApi.csproj|c:\\users\\olaol\\desktop\\renderdeploymenttestdocument\\rendertestapi\\rendertestapi\\mapper\\studentmapperprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -37,8 +56,8 @@
       "VerticalTabListWidth": 256,
       "DocumentGroups": [
         {
-          "DockedHeight": 332,
-          "SelectedChildIndex": 5,
+          "DockedHeight": 272,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
@@ -47,19 +66,71 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "Dockerfile",
+              "DocumentMoniker": "C:\\Users\\olaol\\Desktop\\RenderDeploymentTestDocument\\RenderTestApi\\RenderTestApi\\Dockerfile",
+              "RelativeDocumentMoniker": "RenderTestApi\\Dockerfile",
+              "ToolTip": "C:\\Users\\olaol\\Desktop\\RenderDeploymentTestDocument\\RenderTestApi\\RenderTestApi\\Dockerfile",
+              "RelativeToolTip": "RenderTestApi\\Dockerfile",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-06-23T22:13:16.441Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\olaol\\Desktop\\RenderDeploymentTestDocument\\RenderTestApi\\RenderTestApi\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "RenderTestApi\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\olaol\\Desktop\\RenderDeploymentTestDocument\\RenderTestApi\\RenderTestApi\\Properties\\launchSettings.json",
+              "RelativeToolTip": "RenderTestApi\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-06-23T21:58:37.65Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\olaol\\Desktop\\RenderDeploymentTestDocument\\RenderTestApi\\RenderTestApi\\appsettings.json",
+              "RelativeDocumentMoniker": "RenderTestApi\\appsettings.json",
+              "ToolTip": "C:\\Users\\olaol\\Desktop\\RenderDeploymentTestDocument\\RenderTestApi\\RenderTestApi\\appsettings.json",
+              "RelativeToolTip": "RenderTestApi\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-06-23T21:54:05.931Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\olaol\\Desktop\\RenderDeploymentTestDocument\\RenderTestApi\\RenderTestApi\\Program.cs",
               "RelativeDocumentMoniker": "RenderTestApi\\Program.cs",
               "ToolTip": "C:\\Users\\olaol\\Desktop\\RenderDeploymentTestDocument\\RenderTestApi\\RenderTestApi\\Program.cs",
               "RelativeToolTip": "RenderTestApi\\Program.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAmwB0AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-23T20:10:44.758Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 5,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\olaol\\Desktop\\RenderDeploymentTestDocument\\RenderTestApi\\RenderTestApi\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "RenderTestApi\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\olaol\\Desktop\\RenderDeploymentTestDocument\\RenderTestApi\\RenderTestApi\\appsettings.Development.json",
+              "RelativeToolTip": "RenderTestApi\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-06-23T21:54:03.142Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
               "Title": "StudentMapperProfile.cs",
               "DocumentMoniker": "C:\\Users\\olaol\\Desktop\\RenderDeploymentTestDocument\\RenderTestApi\\RenderTestApi\\Mapper\\StudentMapperProfile.cs",
               "RelativeDocumentMoniker": "RenderTestApi\\Mapper\\StudentMapperProfile.cs",
@@ -67,12 +138,11 @@
               "RelativeToolTip": "RenderTestApi\\Mapper\\StudentMapperProfile.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAAAYAAAAlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-23T19:59:08.063Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-23T19:59:08.063Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 8,
               "Title": "StudentEntity.cs",
               "DocumentMoniker": "C:\\Users\\olaol\\Desktop\\RenderDeploymentTestDocument\\RenderTestApi\\RenderTestApi\\Entity\\StudentEntity.cs",
               "RelativeDocumentMoniker": "RenderTestApi\\Entity\\StudentEntity.cs",
@@ -80,12 +150,11 @@
               "RelativeToolTip": "RenderTestApi\\Entity\\StudentEntity.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-23T19:56:34.125Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-23T19:56:34.125Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 9,
               "Title": "RegisterStudentModel.cs",
               "DocumentMoniker": "C:\\Users\\olaol\\Desktop\\RenderDeploymentTestDocument\\RenderTestApi\\RenderTestApi\\Model\\RegisterStudentModel.cs",
               "RelativeDocumentMoniker": "RenderTestApi\\Model\\RegisterStudentModel.cs",
@@ -93,25 +162,24 @@
               "RelativeToolTip": "RenderTestApi\\Model\\RegisterStudentModel.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-23T19:43:36.641Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-23T19:43:36.641Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 6,
               "Title": "RenderController.cs",
               "DocumentMoniker": "C:\\Users\\olaol\\Desktop\\RenderDeploymentTestDocument\\RenderTestApi\\RenderTestApi\\Controllers\\RenderController.cs",
               "RelativeDocumentMoniker": "RenderTestApi\\Controllers\\RenderController.cs",
               "ToolTip": "C:\\Users\\olaol\\Desktop\\RenderDeploymentTestDocument\\RenderTestApi\\RenderTestApi\\Controllers\\RenderController.cs",
               "RelativeToolTip": "RenderTestApi\\Controllers\\RenderController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAE0AAAAFAAAAAAAAAA==",
+              "ViewState": "AgIAADIAAAAAAAAAAAAqwB4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-23T19:28:28.911Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 11,
               "Title": "WeatherForecastController.cs",
               "DocumentMoniker": "C:\\Users\\olaol\\Desktop\\RenderDeploymentTestDocument\\RenderTestApi\\RenderTestApi\\Controllers\\WeatherForecastController.cs",
               "RelativeDocumentMoniker": "RenderTestApi\\Controllers\\WeatherForecastController.cs",
@@ -119,12 +187,11 @@
               "RelativeToolTip": "RenderTestApi\\Controllers\\WeatherForecastController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-23T19:53:39.816Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-23T19:53:39.816Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 10,
               "Title": "WeatherForecast.cs",
               "DocumentMoniker": "C:\\Users\\olaol\\Desktop\\RenderDeploymentTestDocument\\RenderTestApi\\RenderTestApi\\WeatherForecast.cs",
               "RelativeDocumentMoniker": "RenderTestApi\\WeatherForecast.cs",
@@ -132,15 +199,27 @@
               "RelativeToolTip": "RenderTestApi\\WeatherForecast.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-23T19:27:10.943Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-23T19:27:10.943Z"
             }
           ]
         },
         {
-          "DockedHeight": 68,
-          "SelectedChildIndex": -1,
+          "DockedHeight": 128,
+          "SelectedChildIndex": 0,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Container.targets",
+              "DocumentMoniker": "C:\\Users\\olaol\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.21.0\\build\\Container.targets",
+              "RelativeDocumentMoniker": "..\\..\\..\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.21.0\\build\\Container.targets",
+              "ToolTip": "C:\\Users\\olaol\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.21.0\\build\\Container.targets",
+              "RelativeToolTip": "..\\..\\..\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.21.0\\build\\Container.targets",
+              "ViewState": "AgIAANQAAAAAAAAAAAAQwNgAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
+              "WhenOpened": "2025-06-23T22:20:12.414Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"

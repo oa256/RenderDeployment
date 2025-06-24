@@ -20,7 +20,7 @@ app.MapGet("/", () => "Hello from Render!");
 /*if (app.Environment.IsDevelopment())
 {*/
 app.UseSwagger();
-    app.UseSwaggerUI();
+app.UseSwaggerUI();
 /*}*/
 
 app.UseHttpsRedirection();
@@ -30,7 +30,7 @@ app.UseAuthorization();
 app.MapControllers();
 
 // Set Render.com port
-var port = Environment.GetEnvironmentVariable("PORT") ?? "5000";
+var port = Environment.GetEnvironmentVariable("PORT") ?? "80";
 app.Urls.Add($"http://*:{port}");
 
 

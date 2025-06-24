@@ -35,3 +35,4 @@ C:\Users\olaol\Desktop\RenderDeploymentTestDocument\RenderTestApi\RenderTestApi\
 C:\Users\olaol\Desktop\RenderDeploymentTestDocument\RenderTestApi\RenderTestApi\obj\Debug\net8.0\RenderTestApi.pdb
 C:\Users\olaol\Desktop\RenderDeploymentTestDocument\RenderTestApi\RenderTestApi\obj\Debug\net8.0\RenderTestApi.genruntimeconfig.cache
 C:\Users\olaol\Desktop\RenderDeploymentTestDocument\RenderTestApi\RenderTestApi\obj\Debug\net8.0\ref\RenderTestApi.dll
+C:\Users\olaol\Desktop\RenderDeploymentTestDocument\RenderTestApi\RenderTestApi\obj\Debug\net8.0\RenderTestApi.sourcelink.json
